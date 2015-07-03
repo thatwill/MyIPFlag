@@ -2,8 +2,8 @@
   "name": "myipflag",
   "title": "MyIPFlag",
   "id": "jid1-xczDfJCESm4Q2w",
-  "description": "Shows a flag icon of your current IP's geolocation. Uses flags from www.icondrawer.com and GeoIP API www.ipinfo.io",
+  "description": "Shows a flag icon of your current IP's country. Uses flags from www.icondrawer.com and geolocation API www.ipinfo.io",
   "author": "",
-  "license": "MPL 2.0",
+  "license": "",
   "version": "0.1"
 }
